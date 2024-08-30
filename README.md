@@ -6,9 +6,9 @@
 
 - 🎈 Currently learning about **some Frontend stuff**
 
-- ✨ All of my projects are (and will 👀) be available here [https://github.com/rayantx?tab=repositories](https://github.com/rayantx?tab=repositories)
+- ✨ All of my projects are (and will 👀) be available here [rayantx repositories](https://github.com/rayantx?tab=repositories)
 
-- 🍜 About me **Loves my girlfriend 💘, oriental stuff 🍣, video games 🎮, manga/animes 🍙**
+- **Loves my girlfriend 💘, oriental stuff 🍣, video games 🎮, manga and animes 🍙**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,4 +45,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayantx&show_icons=true&locale=en&layout=compact" alt="rayantx" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rayantx&show_icons=true&locale=en" alt="rayantx" /></p>
-
