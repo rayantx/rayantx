@@ -49,7 +49,7 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" alt="npm" width="40" height="40"/></a>
-    <a href="https://classic.yarnpkg.com/en/" target="_blank" rel="noreferrer"> <img src="https://getlogovector.com/wp-content/uploads/2021/01/yarn-package-manager-logo-vector.png" alt="yarn" width="40" height="40"/></a>
+    <a href="https://classic.yarnpkg.com/en/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" alt="yarn" width="40" height="40"/></a>
     <a href="https://pnpm.io/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/pnpm-logo-21DC828CD8-seeklogo.com.png" alt="pnpm" width="40" height="40"/></a> 
     <a href="https://bun.sh/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:396/0*rHVcFhOO3-5RcEf7.png" alt="bun" width="40" height="40"/></a> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
