@@ -6,7 +6,7 @@
 
 - Currently learning about **some Frontend stuff (Next.js)**
 
-- All of my projects are (and will.) be available here: **[my repos](https://github.com/rayantx?tab=repositories)**
+- All of my projects are (and will be) available here: **[my repos](https://github.com/rayantx?tab=repositories)**
 
 - **Loves my girlfriend, oriental stuff, games, manga and animes**
 
