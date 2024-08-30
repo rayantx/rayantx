@@ -46,5 +46,3 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rayantx&show_icons=true&locale=en" alt="rayantx" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rayantx&" alt="rayantx" /></p>
-
