@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayantx&label=Profile%20views&color=0e75b6&style=flat" alt="rayantx"/> </p>
 
-- 🎈 Currently learning about **some Frontend stuff**
+- Currently learning about **some Frontend stuff (Next.js)**
 
-- ✨ All of my projects are (and will 👀) be available here: **[rayantx repositories](https://github.com/rayantx?tab=repositories)**
+- All of my projects are (and will.) be available here: **[my repos](https://github.com/rayantx?tab=repositories)**
 
-- **Loves my girlfriend 💘, oriental stuff 🍣, video games 🎮, manga and animes 🍙**
+- **Loves my girlfriend, oriental stuff, games, manga and animes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
