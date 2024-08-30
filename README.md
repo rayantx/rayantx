@@ -1,6 +1,6 @@
 <h1 align="center">Hello 🤗 I'm Rayan Teixeira</h1>
 <h3 align="center">A Fullstack Developer learning and working with technologies</h3>
-<img align="right" alt="Me" width="400" src="https://imgur.com/a/PtsvMYu">
+<img align="right" alt="Me" width="400" src="https://s11.gifyu.com/images/SoVN3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayantx&label=Profile%20views&color=0e75b6&style=flat" alt="rayantx" /> </p>
 
