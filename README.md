@@ -57,6 +57,6 @@
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/512px-UbuntuCoF.svg.png" alt="ubuntu" width="40" height="40"/></a>
 </p>
 
-<p><img align="left-center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayantx&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rayantx"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayantx&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rayantx"/></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rayantx&show_icons=true&locale=en&theme=tokyonight" alt="rayantx"/></p>
