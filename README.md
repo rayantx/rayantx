@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayantx&label=Profile%20views&color=0e75b6&style=flat" alt="rayantx"/> </p>
 
-- Currently learning about **some Frontend stuff (Next.js)**
+- Currently working with **fullstack projects**
 
 - All of my projects are (and will be) available here: **[my repos](https://github.com/rayantx?tab=repositories)**
 
