@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayantx&label=Profile%20views&color=0e75b6&style=flat" alt="rayantx"/> </p>
 
-- Currently working with **Golang**
+- Currently studying **Java/Spring**
 
 - All of my projects are (and will be) available here: **[my repos](https://github.com/rayantx?tab=repositories)**
 
