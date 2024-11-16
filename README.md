@@ -1,12 +1,12 @@
 <h1 align="center">Hello 🤗 I'm Rayan Teixeira</h1>
-<h3 align="center">A Fullstack Developer learning and working with technologies</h3>
+<h3 align="center">A Software Developer learning and working with technologies</h3>
 <img align="right" alt="Me" width="400" src="https://s11.gifyu.com/images/SoVN3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayantx&label=Profile%20views&color=0e75b6&style=flat" alt="rayantx"/> </p>
 
-- Currently studying **Java/Spring**
+- Currently learning more of **Java - Spring Boot**
 
-- All of my projects are (and will be) available here: **[my repos](https://github.com/rayantx?tab=repositories)**
+- All of my study, contributions, projects are (or will be) available here: **[my repos](https://github.com/rayantx?tab=repositories)**
 
 - **Loves my girlfriend, oriental stuff, games, manga and animes**
 
