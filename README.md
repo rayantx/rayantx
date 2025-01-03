@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayantx&label=Profile%20views&color=0e75b6&style=flat" alt="rayantx"/> </p>
 
-- Currently learning more of **Java - Spring Boot**
+- Currently working with **Java - Spring Boot**
 
 - All of my study, contributions, projects are (or will be) available here: **[my repos](https://github.com/rayantx?tab=repositories)**
 
