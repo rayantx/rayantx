@@ -1,14 +1,4 @@
-<h1 align="center">Hello 🤗 I'm Rayan Teixeira</h1>
-<h3 align="center">A Software Developer learning and working with technologies</h3>
-<img align="right" alt="Me" width="400" src="https://s11.gifyu.com/images/SoVN3.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayantx&label=Profile%20views&color=0e75b6&style=flat" alt="rayantx"/> </p>
-
-- Currently working with **Java - Spring Boot**
-
-- All of my study, contributions, projects are (or will be) available here: **[my repos](https://github.com/rayantx?tab=repositories)**
-
-- **Loves my girlfriend, oriental stuff, games, manga and animes**
+<h3 align="center">Software Developer</h3>
 
 <h3 align="left">Languages</h3>
 <p align="left">
