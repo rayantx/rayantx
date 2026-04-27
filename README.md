@@ -3,20 +3,20 @@
  <h3 align="left">Languages</h3>
  <p align="left">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,go,java&theme=light" />
+     <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,go,java" />
    </a>
  </p>
 
  <h3 align="left">Frameworks</h3>
  <p align="left">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,nestjs,react,nextjs,vue,laravel,spring&theme=light" />
+     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,nextjs,vue,laravel,spring" />
    </a>
  </p>
 
  <h3 align="left">Technologies</h3>
  <p align="left">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,docker,kubernetes,linux,aws,githubactions&theme=light" />
+     <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,docker,kubernetes,linux,aws,githubactions" />
    </a>
  </p>
