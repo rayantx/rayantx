@@ -11,6 +11,8 @@
  <p align="left">
    <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,nextjs,vue,laravel,spring" />
+   </a><a href="https://skills.syvixor.com">
+     <img src="https://skills.syvixor.com/api/icons?i=fastify" />
    </a>
  </p>
 
