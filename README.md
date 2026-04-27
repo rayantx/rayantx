@@ -9,8 +9,9 @@
 
  <h3 align="left">Frameworks</h3>
  <p align="left">
-   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express" /></a><img src="https://skills.syvixor.com/api/icons?i=fastify" /><a 
-href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nestjs,react,nextjs,vue,laravel,spring" /></a>
+   <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,nextjs,vue,laravel,spring" />
+   </a>
  </p>
 
  <h3 align="left">Technologies</h3>
